@@ -18,7 +18,7 @@
 <a href="https://open.spotify.com/user/d3jvdmatbgtd2oen8z5g5gksn" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/davibatschke/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/davibatschke" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" target="_blank"></a>
-<a href="linktree" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white" target="_blank"></a>
+<a href="https://linktr.ee/davibatschke" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white" target="_blank"></a>
 </div>
 
 #
