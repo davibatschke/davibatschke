@@ -7,12 +7,8 @@
 <h3 align="center">👋🏼 Bem-vindo(a) ao meu Perfil aqui vai um pouco Sobre Mim...</h3>
 <div align="justify">
 
-</br>
-
 Sou jovem de 18 anos, estudante e apaixonado por tecnologia, com foco em **Python** e no desenvolvimento **software e web**. Estudo pela **Alura**, aprendendo ferramentas como **Django**, **FastAPI**, **Git**, dentre outras ferramentas. Neste GitHub compartilho meus projetos e práticas, acompanhando minha evolução como desenvolvedor. Também busco me desenvolver fora da programação, aprimorando meu **Inglês** e iniciando no **Francês**. Sinta-se à vontade para explorar meus repositórios!
 </div>
-
-</br>
 
 <div align="center">
     <a href="mailto:davibatschkedev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -21,11 +17,8 @@ Sou jovem de 18 anos, estudante e apaixonado por tecnologia, com foco em **Pytho
     <a href="https://open.spotify.com/user/d3jvdmatbgtd2oen8z5g5gksn"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"></a>
 </div>
 
-</br>
-
 <h3 align="center">📚 Linguagens e Tecnologias que estou Usando e Aprendendo</h3>
 <div align="center">
-</br>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="40"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="40"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="40"/>   
@@ -44,12 +37,10 @@ Sou jovem de 18 anos, estudante e apaixonado por tecnologia, com foco em **Pytho
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="40"/>
 </div>
 
-<br></br>
-
+</br>
 <div align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=davibatschke&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
 </div>
-
 </br>
 
 #
