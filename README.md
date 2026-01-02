@@ -36,11 +36,8 @@ Sou jovem de 18 anos, estudante e apaixonado por tecnologia, com foco em **Pytho
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-plain.svg" width="50" height="40"/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="40"/>
 </div>
+</br>
 
-</br>
-<div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=davibatschke&theme=dark&locale=pt_BR" alt="GitHub Streak" /></a>
-</div>
-</br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=davibatschke&theme=dark&locale=pt_BR&card_width=895&card_height=195)](https://git.io/streak-stats)
 
 #
