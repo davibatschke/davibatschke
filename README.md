@@ -38,6 +38,4 @@ Sou jovem de 18 anos, estudante e apaixonado por tecnologia, com foco em **Pytho
 </div>
 </br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=davibatschke&theme=dark&locale=pt_BR&card_width=895&card_height=195)](https://git.io/streak-stats)
-
 #
