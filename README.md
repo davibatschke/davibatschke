@@ -1,6 +1,3 @@
-<!-- Banner -->
-<img src="./assets/profile_banner.png" alt="Imagem da Capa" style="width:auto; height:auto"/>
-
 <!-- Sobre mim -->
 #
 
