@@ -1,14 +1,10 @@
-<div align="center">
+# 
 
-# PYTHON BACKEND DEVELOPER
+I'm a self-taught developer from Brazil currently studying **Python**, **FastAPI**, and **backend best practices**. I'm pursuing a degree in Computer Science at the FSG – Centro Universitário da Serra Gaúcha. I enjoy turning ideas into working projects and my goal is to keep growing through hands-on experience.
 
-</div>
+I'm also a **Linux** enthusiast, not an expert yet, but I love exploring and learning how things work under the hood. Currently running **Arch Linux** and loving every bit of it. 
 
-I'm a self-taught developer from Brazil currently studying **Python**, **FastAPI**, and **backend best practices**. Computer Science is on my roadmap — I plan to pursue a degree in the future. I enjoy the process of learning and building, and my goal is to grow through personal projects.
-
-I'm also a **Linux** enthusiast — not an expert yet, but I love exploring and learning how things work under the hood. Currently running **Arch Linux** and loving every bit of it. 
-
-Outside of code, I'm also learning **English** and **French** — I find it fascinating how new languages open up entirely new ways of thinking.
+Outside of code, I enjoy playing video games, listening to rock and metal, and picking up the guitar in my free time. I'm also gradually improving my English.
 
 <div align="center">
 
@@ -34,13 +30,4 @@ Outside of code, I'm also learning **English** and **French** — I find it fasc
   </a>
 </p>
 
-# 
-
-<div align="center">
-
-[![Davi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davibatschke&show_icons=true&theme=dark)](https://github.com/davibatschke/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=davibatschke&theme=dark&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&card_width=300)](https://git.io/streak-stats)
-
-</div>
-
-# 
+#
