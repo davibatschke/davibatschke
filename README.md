@@ -26,7 +26,7 @@ Outside of code, I enjoy playing video games, listening to rock and metal, and p
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,git,docker,sqlite,postgresql,vscode,obsidian,arch,linux,py&perline=5"/>
+    <img src="https://skillicons.dev/icons?i=fastapi,git,py,vscode,obsidian,arch&perline=3"/>
   </a>
 </p>
 
