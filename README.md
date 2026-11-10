@@ -1,1 +1,1 @@
-# Davi S. Batschke -- DevOps Engineer in Training
+# Davi S. Batschke • DevOps Engineer in Training
